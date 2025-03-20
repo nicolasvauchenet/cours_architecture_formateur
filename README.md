@@ -1,44 +1,25 @@
-# Architectures des Applications
+# Correction de l’évaluation : Architectures et Hébergement
 
-## Objectifs du cours
+## Présentation
 
-Ce cours a pour objectif de fournir une **compréhension approfondie des architectures applicatives**, en équilibrant *
-*théorie et pratique** pour les profils **développement (DLW)** et **administration système (IRC)**.
+Ce document contient la **correction détaillée** de l’évaluation sur les architectures et l’hébergement des
+applications.  
+L’évaluation est divisée en **cinq parties**, chacune visant à tester des compétences spécifiques :
 
-À la fin du cours, les étudiants seront capables de :
-
-- Identifier et comparer les **architectures monolithique, n-tiers et microservices**.
-- Comprendre les principes des **architectures avancées** (DDD, Clean, Hexagonale).
-- Expliquer les **implications en hébergement et déploiement** de chaque modèle.
-- Utiliser **UML pour représenter et justifier des choix d’architecture**.
-- Appliquer ces concepts dans un **cas pratique** avec une **évaluation finale**.
+- **QCM** : Vérification des connaissances fondamentales.
+- **Vrai/Faux** : Évaluation de la compréhension avec justification.
+- **Questions courtes** : Réponses synthétiques sur des concepts clés.
+- **Étude de cas** : Analyse d’un problème réel avec une solution adaptée.
+- **Rédaction technique** : Explication et justification d’un choix technologique.
 
 ---
 
-## Organisation du cours
+## Notation
 
-Le cours est divisé en **trois jours** :
+**60 points au total**
 
-### **Jour 1 : Introduction & architectures classiques**
-
-- **Pourquoi l’architecture est essentielle ?**
-- **Modèle monolithique : principes, avantages, limites.**
-- **Architecture n-tiers : découpage en couches et hébergement.**
-- **Microservices : modularité et complexité.**
-- **Démonstrations et exemples en PHP et JavaScript.**
-- **Diagrammes UML : cas d’utilisation, composants, déploiement.**
-
-### **Jour 2 : Architectures avancées & déploiement**
-
-- **Domain-Driven Design (DDD) : structurer le domaine métier.**
-- **Clean Architecture : séparation des responsabilités.**
-- **Hexagonale : découplage et ports/adapters.**
-- **Hébergement et déploiement : serveurs, conteneurs, cloud.**
-- **Démonstrations et exemples en PHP et JavaScript.**
-- **Diagrammes UML : cas d’utilisation, composants, déploiement.**
-
-### **Jour 3 : Études de cas & évaluation**
-
-- **Études de cas et choix d’architectures.**
-- **Préparation à l’évaluation.**
-- **Examen final : analyse et justification d’une architecture.**
+- QCM : 10 points
+- Vrai/Faux + justification : 10 points
+- Questions courtes : 10 points
+- Étude de cas : 15 points
+- Rédaction technique : 15 points
